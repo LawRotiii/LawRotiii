@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LawRotiii
-- 👀 I’m interested in JavaScript and C++
-- 🌱 I’m currently learning C++ Basic
+- 👀 I’m interested in JavaScript
 
 <!---
 LawRotiii/LawRotiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
