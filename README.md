@@ -1,2 +1,1 @@
-- i love u 24/7
-- bcs love can burn like a cigarette
+still miss the way she pronounced my name.
